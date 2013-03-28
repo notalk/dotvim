@@ -52,3 +52,6 @@
 [submodule "bundle/vim-neocomplcache-clang_complete"]
 	path = bundle/vim-neocomplcache-clang_complete
 	url = git@github.com:osyo-manga/neocomplcache-clang_complete.git
+[submodule "bundle/vim-TagHighlight"]
+	path = bundle/vim-TagHighlight
+	url = git@github.com:magic-dot-files/TagHighlight.git
