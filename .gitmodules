@@ -40,3 +40,6 @@
 [submodule "bundle/vim-a"]
 	path = bundle/vim-a
 	url = git@github.com:vim-scripts/a.vim.git
+[submodule "bundle/vim-bufexplorer"]
+	path = bundle/vim-bufexplorer
+	url = git@github.com:vim-scripts/bufexplorer.zip.git
