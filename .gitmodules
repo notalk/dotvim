@@ -43,3 +43,6 @@
 [submodule "bundle/vim-bufexplorer"]
 	path = bundle/vim-bufexplorer
 	url = git@github.com:vim-scripts/bufexplorer.zip.git
+[submodule "bundle/vim-clang_complete"]
+	path = bundle/vim-clang_complete
+	url = git@github.com:oblitum/clang_complete.git
