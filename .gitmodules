@@ -16,3 +16,6 @@
 [submodule "bundle/vim-commentary"]
 	path = bundle/vim-commentary
 	url = git@github.com:tpope/vim-commentary.git
+[submodule "bundle/vim-syntastic"]
+	path = bundle/vim-syntastic
+	url = git@github.com:scrooloose/syntastic.git
