@@ -7,3 +7,6 @@
 [submodule "bundle/vim-nerdtree"]
 	path = bundle/vim-nerdtree
 	url = git@github.com:scrooloose/nerdtree.git
+[submodule "bundle/vim-tagbar"]
+	path = bundle/vim-tagbar
+	url = git@github.com:majutsushi/tagbar.git
