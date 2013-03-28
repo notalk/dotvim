@@ -49,3 +49,6 @@
 [submodule "bundle/vim-neocomplcache"]
 	path = bundle/vim-neocomplcache
 	url = git@github.com:Shougo/neocomplcache.git
+[submodule "bundle/vim-neocomplcache-clang_complete"]
+	path = bundle/vim-neocomplcache-clang_complete
+	url = git@github.com:osyo-manga/neocomplcache-clang_complete.git
